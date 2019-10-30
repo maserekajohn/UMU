@@ -1,0 +1,19 @@
+.mainheading{
+color:red;
+font-size:40px;
+}
+p{
+    color:pink;
+    background-color:blue;
+}
+.heading2{
+    font-size: 30px;
+    font-weight: solid;
+    color:blueviolet;
+
+}
+#logo{
+    width:100px;
+    height:100px;
+    border-radius:50px
+}
